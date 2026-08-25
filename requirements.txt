@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+pypdf>=4.0.0
+# Add additional dependencies below as needed:
+# pandas
+# numpy
+# python-docx
+# spacy
+# scikit-learn
+# google-generativeai
+# python-dotenv
